@@ -45,7 +45,7 @@ We classify input images (like `dog.png`) using pretrained models without traini
 Example:
 > Input Image: 🐶 `dog.png`  
 > Predicted Class: `"Golden Retriever"`
-
+> Accuracy: '**96%**'
 ---
 
 
